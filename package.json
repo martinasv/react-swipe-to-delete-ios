@@ -1,12 +1,12 @@
 {
-  "name": "react-swipe-to-delete-ios",
+  "name": "@wobwob/react-swipe-to-delete-ios",
   "homepage": "https://arnaudambro.github.io/react-swipe-to-delete-ios/",
   "author": "Arnaud Ambroselli <arnaud@ambroselli.io>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:arnaudambro/react-swipe-to-delete-ios.git"
+    "url": "git+ssh://git@github.com/arnaudambro/react-swipe-to-delete-ios.git"
   },
-  "version": "1.0.11",
+  "version": "1.0.0",
   "private": false,
   "license": "MIT",
   "main": "lib/index.js",
@@ -42,5 +42,13 @@
     ">0.2%",
     "not dead",
     "not op_mini all"
-  ]
+  ],
+  "description": "A simple React component to reproduce the way iOS deletes an item in a list. [Demo](https://arnaudambro.github.io/react-swipe-to-delete-ios)",
+  "bugs": {
+    "url": "https://github.com/arnaudambro/react-swipe-to-delete-ios/issues"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  }
 }
